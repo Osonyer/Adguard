@@ -1,3 +1,7 @@
 @@|steamcommunity.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
+@@|cdn.akamai.steamstatic.com^$important
+@@|store.akamai.steamstatic.com^$important
+@@|clientconfig.akamai.steamstatic.com^$important
+@@|community.akamai.steamstatic.com^$important
