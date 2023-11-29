@@ -5,3 +5,13 @@
 @@|store.akamai.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|community.akamai.steamstatic.com^$important
+@@|client-download.steampowered.com^$important
+@@|api.steampowered.com^$important
+@@|cm*.cm.steampowered.com^$important
+@@|crash.steampowered.com^$important
+@@|help.steampowered.com^$important
+@@|media.steampowered.com^$important
+@@|media4.steampowered.com^$important
+@@|store.steampowered.com^$important
+@@|test.steampowered.com^$important
+@@|www.steampowered.com^$important
