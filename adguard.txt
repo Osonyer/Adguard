@@ -1,4 +1,5 @@
 @@||plex.tv^$important
+@@||plexapp.com^$important
 @@||steamcommunity.com^$important
 @@||steamstatic.com^$important
 @@||steampowered.com^$important
