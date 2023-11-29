@@ -1,9 +1,9 @@
-@@|steamcommunity.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|store.akamai.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
+@@|steamcommunity-a.akamaihd.net
 @@|community.akamai.steamstatic.com^$important
 @@|cm*.cm.steampowered.com^$important
 @@||steamcommunity.com^$important
