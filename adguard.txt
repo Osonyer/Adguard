@@ -2,6 +2,7 @@
 @@||steamcommunity.com^$important
 @@||steamstatic.com^$important
 @@||steampowered.com^$important
+@@||epicgames.com^$important
 @@|plex.direct^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
