@@ -1,4 +1,5 @@
 @@|steamcommunity.com^$important
+@@|www.steampowered.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
 @@|cdn.akamai.steamstatic.com^$important
