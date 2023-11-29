@@ -17,3 +17,6 @@
 ##@@|store.steampowered.com^$important
 ##@@|test.steampowered.com^$important
 @@||plex.tv^$important
+
+!below allows analytics.plex.tv
+!@@||analytics.plex.tv^$important
