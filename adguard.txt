@@ -3,6 +3,7 @@
 @@||steamstatic.com^$important
 @@||steampowered.com^$important
 @@||epicgames.com^$important
+@@||home-assistant.io^$important
 @@|plex.direct^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
