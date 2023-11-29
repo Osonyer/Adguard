@@ -6,17 +6,7 @@
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|community.akamai.steamstatic.com^$important
 @@|cm*.cm.steampowered.com^$important
+@@||steamcommunity.com^$important
+@@||steamstatic.com^$important
 @@||steampowered.com^$important
-##above rule matches for below
-##@@|api.steampowered.com^$important
-##@@|client-download.steampowered.com^$important
-##@@|crash.steampowered.com^$important
-##@@|help.steampowered.com^$important
-##@@|media.steampowered.com^$important
-##@@|media4.steampowered.com^$important
-##@@|store.steampowered.com^$important
-##@@|test.steampowered.com^$important
 @@||plex.tv^$important
-
-!below allows analytics.plex.tv
-!@@||analytics.plex.tv^$important
