@@ -16,4 +16,4 @@
 ##@@|media4.steampowered.com^$important
 ##@@|store.steampowered.com^$important
 ##@@|test.steampowered.com^$important
-
+@@||plex.tv^$important
