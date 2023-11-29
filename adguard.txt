@@ -9,4 +9,6 @@
 @@||steamcommunity.com^$important
 @@||steamstatic.com^$important
 @@||steampowered.com^$important
+@@|steamusercontent-a.akamaihd.net^$important
+@@|steamuserimages-a.akamaihd.net^$important
 @@||plex.tv^$important
