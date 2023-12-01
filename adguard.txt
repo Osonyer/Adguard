@@ -2,6 +2,7 @@
 @@||plex.tv^$important
 @@||plexapp.com^$important
 @@||plex.direct^$important
+@@|sentry.sonarr.tv
 
 ! Steam service
 @@||steamcommunity.com^$important
