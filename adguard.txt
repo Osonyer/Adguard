@@ -6,6 +6,7 @@
 @@||steampowered.com^$important
 @@||epicgames.com^$important
 @@||home-assistant.io^$important
+@@||gameanalytics.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
 @@|cdn.akamai.steamstatic.com^$important
