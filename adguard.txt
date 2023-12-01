@@ -1,12 +1,14 @@
+!Plex services
 @@||plex.tv^$important
 @@||plexapp.com^$important
 @@||plex.direct^$important
+
+!steam service
 @@||steamcommunity.com^$important
 @@||steamstatic.com^$important
 @@||steampowered.com^$important
-@@||epicgames.com^$important
-@@||home-assistant.io^$important
 @@||gameanalytics.com^$important
+@@||steamserver.net
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
 @@|cdn.akamai.steamstatic.com^$important
@@ -23,5 +25,16 @@
 @@|steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com^$important
 @@|steamdb.info^$important
 @@|steampipe.akamaized.net^$important
+
+!epic games
+@@||epicgames.com^$important
+
+!HASIO
+@@||home-assistant.io^$important
+
+
+
 @@|steamstore-a.akamaihd.net^$important
 @@|store.sony.com^$important
+! Required for the PS5
+@@||telemetry-console.api.playstation.com
