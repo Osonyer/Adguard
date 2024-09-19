@@ -37,3 +37,6 @@
 ! Required for the PS5
 @@||telemetry-console.api.playstation.com
 @@|store.sony.com^$important
+
+! Nanoleaf Lights
+@@||nanoleaf.me^important
