@@ -38,5 +38,8 @@
 @@||telemetry-console.api.playstation.com
 @@|store.sony.com^$important
 
+! PowerSchool Stuff
+@@||track.spe.schoolmessenger.com^
+
 ! Nanoleaf Lights
 @@||nanoleaf.me^important
