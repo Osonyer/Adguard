@@ -1,6 +1,6 @@
 # Allowlist for Gaming Platforms (Steam, PlayStation, Nintendo)
 
-I came across an issue while using the **Ultimate AdGuard block lists** where several gaming platforms—**Steam**, **PlayStation**, and **Nintendo**—began returning partial or broken site content.
+I came across an issue while using the **Ultimate AdGuard block lists** where several gaming platforms **Steam**, **PlayStation**, and **Nintendo** began returning partial or broken site content.
 
 After troubleshooting, Googling, and consistently monitoring my block lists, I created the following **custom allowlist** to restore proper functionality across these platforms.
 
